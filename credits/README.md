@@ -2,8 +2,7 @@
 Here is a list of artists that created the gen 5 style sprites. Please reach out if you did work on the sprites and do not see your name here :)). Thank you all for your hard work!  
 
 ## Overworld Sprites
-### Gen 1-8
-[Gen 1-8](https://reliccastle.com/resources/952/)  
+### [Gen 1-8](https://reliccastle.com/resources/952/)  
 #### Gen 1-5
 **MissingLukey**  
 **help-14**  
@@ -44,8 +43,7 @@ Here is a list of artists that created the gen 5 style sprites. Please reach out
 **LarryTurbo**  
 **tammyclaydon**  
 
-### Gen 9
-[Gen 9](https://reliccastle.com/resources/1101/)   
+### [Gen 9](https://reliccastle.com/resources/1101/)   
 **Azria**  
 **DarkusShadow**  
 **EduarPokeN**  
