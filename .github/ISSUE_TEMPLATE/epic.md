@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-- [] Story Issue
-- [] Story Issue
-- [] Story Issue
+- [ ] Story Issue
+- [ ] Story Issue
+- [ ] Story Issue
